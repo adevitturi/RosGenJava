@@ -1,7 +1,7 @@
 # Dependencies to use genjava.
 [
 # A minimal source environment that utilises genjava for message generation
-{'git': {'local-name': 'rosjava_build_tools', 'version': 'kinetic', 'uri':'https://github.com/rosjava/rosjava_build_tools.git'}},
-{'git': {'local-name': 'genjava', 'version': 'kinetic', 'uri':'https://github.com/rosjava/genjava.git'}},
-{'git': {'local-name': 'rosjava_bootstrap', 'version': 'kinetic', 'uri':'https://github.com/rosjava/rosjava_bootstrap'}},
+{'git': {'local-name': 'rosjava_build_tools', 'version': 'melodic', 'uri':'https://github.com/rosjava/rosjava_build_tools.git'}},
+{'git': {'local-name': 'genjava', 'version': 'melodic', 'uri':'https://github.com/rosjava/genjava.git'}},
+{'git': {'local-name': 'rosjava_bootstrap', 'version': 'melodic', 'uri':'https://github.com/rosjava/rosjava_bootstrap'}},
 ]
